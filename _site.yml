@@ -1,0 +1,10 @@
+name: ""
+output_dir: "docs"
+navbar:
+  title: ""
+  left:
+  - text: "Possible placements for queen on chessboard"
+   href: counting_queen_layouts.html
+output:
+  html_document:
+ theme: cosmo
